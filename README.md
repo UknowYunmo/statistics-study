@@ -1,1 +1,1 @@
-# statistics-study
+# statistics study
